@@ -1,2 +1,9 @@
-# DuckDNS sensitive config
-homelab/config/duckdns/duck.env
+# Sensitive envs
+.env
+config/duckdns/duck.env
+
+# Volumes
+downloads/
+media/
+config/
+data/
